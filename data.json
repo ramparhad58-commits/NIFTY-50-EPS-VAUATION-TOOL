@@ -1,11 +1,22 @@
 {
- "updated": "2026-05-13",
- "asof": "2026-05-13",
- "nifty": 23578.3,
+ "updated": "2026-05-31",
+ "asof": "2026-05-29",
+ "nifty": 23547.75,
  "eps": 1143.8,
- "pe": 20.61,
- "source": "seed (verified 13-May-2026)",
+ "pe": 20.59,
+ "source": "Yahoo price + last EPS (NSE unavailable)",
  "history": [
-  {"date":"2026-05-13","nifty":23578.3,"pe":20.61,"eps":1143.8}
+  {
+   "date": "2026-05-13",
+   "nifty": 23578.3,
+   "pe": 20.61,
+   "eps": 1143.8
+  },
+  {
+   "date": "2026-05-29",
+   "nifty": 23547.75,
+   "pe": 20.59,
+   "eps": 1143.8
+  }
  ]
 }
